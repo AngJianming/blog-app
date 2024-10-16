@@ -1,5 +1,8 @@
-# Getting Started with Create React App
+# Blog Application Clone
+
 Simple small project using React and React Native
+
+# Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
